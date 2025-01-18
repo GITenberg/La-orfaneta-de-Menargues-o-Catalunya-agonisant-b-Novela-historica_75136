@@ -1,0 +1,25 @@
+_repo: La-orfaneta-de-Menargues-o-Catalunya-agonisant-b-Novela-historica_75136
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bofarull, Antoni de
+    gutenberg_agent_id: '57852'
+    url: http://www.gutenberg.org/2009/agents/57852
+description: ''
+gutenberg_issued: '2025-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75136'
+language: ca
+pgterms:marc905: 20250116113346debofarull
+pgterms:marc906: '1862'
+pgterms:marc907: ES
+production_note: 'Edició digital: Joan Queralt Gil'
+publication_note: '  $aBarcelona :$bLlibreria del Plus Ultra, $c1862.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'La orfaneta de Menargues o Catalunya agonisant : $b Novela històrica'
+url: http://www.gutenberg.org/ebooks/75136
